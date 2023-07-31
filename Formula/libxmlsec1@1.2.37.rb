@@ -1,4 +1,6 @@
 class Libxmlsec1AT1237 < Formula
+  # Barely modified from core formula while 1.2.37 was available:
+  # https://github.com/Homebrew/homebrew-core/blob/master/Formula/libxmlsec1.rb
   desc "XML security library"
   homepage "https://www.aleksey.com/xmlsec/"
   url "https://www.aleksey.com/xmlsec/download/older-releases/xmlsec1-1.2.37.tar.gz"
